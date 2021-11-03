@@ -184,3 +184,8 @@ bindsym $mod+r mode "resize"
 bar {
         status_command i3status
 }
+
+# my customizations
+bindsym $mod+Insert exec --no-startup-id firefox --new-window
+exec --no-startup-id /home/graf0/.config/i3/firefox.sh
+
