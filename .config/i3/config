@@ -187,5 +187,6 @@ bar {
 
 # my customizations
 bindsym $mod+Insert exec --no-startup-id firefox --new-window
+bindsym $mod+Control+l exec i3lock -i /home/graf0/.config/i3/i3lock.png
 exec --no-startup-id /home/graf0/.config/i3/firefox.sh
 
