@@ -2,3 +2,5 @@ selection:
   save_to_clipboard: true
 mouse_bindings:
   - { mouse: Right, action: Paste }
+font:
+  normal: JetBrains Mono
