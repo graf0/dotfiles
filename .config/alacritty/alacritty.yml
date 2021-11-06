@@ -2,6 +2,10 @@ selection:
   save_to_clipboard: true
 mouse_bindings:
   - { mouse: Right, action: Paste }
+# below - for windows only
 font:
   normal:
     family: JetBrains Mono
+shell:
+  program: C:\Program Files\PowerShell\7\pwsh.exe
+working_directory: c:\Users\graf0
