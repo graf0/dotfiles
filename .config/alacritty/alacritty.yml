@@ -3,4 +3,5 @@ selection:
 mouse_bindings:
   - { mouse: Right, action: Paste }
 font:
-  normal: JetBrains Mono
+  normal:
+    family: JetBrains Mono
