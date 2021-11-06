@@ -2,7 +2,12 @@ selection:
   save_to_clipboard: true
 mouse_bindings:
   - { mouse: Right, action: Paste }
-# below - for windows only
+# for linux only
+key_bindings:
+  - { key: N, mods: Control, action: CreateNewWindow }
+# for windows only
+key_bindings:
+  - { key: N, mods: Control, action: SpawnNewInstance }
 font:
   normal:
     family: JetBrains Mono
